@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+
+# Model weights (large files)
+*.pt
+weights/*.pt
+
+# Datasets and videos
+*.mp4
+*.avi
+*.mov
+
+# Results and outputs
+results/
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
