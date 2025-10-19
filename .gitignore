@@ -8,8 +8,7 @@ venv/
 ENV/
 
 # Model weights (large files)
-*.pt
-weights/*.pt
+
 
 # Datasets and videos
 *.mp4
